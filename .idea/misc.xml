@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/drawable/card.xml" value="0.15197368421052632" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/drawable/ic_baseline_swap_vert_24.xml" value="0.14364820846905538" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/layout/activity_view.xml" value="0.2" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/layout/rv_item.xml" value="0.16" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/layout/spinner_item.xml" value="0.13486842105263158" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1388157894736842" />
+        <entry key="..\:/anp/CurrencyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1388157894736842" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
